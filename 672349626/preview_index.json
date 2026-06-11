@@ -1,7 +1,7 @@
 {
   "qq_number": "875584882",
   "group_number": "672349626",
-  "updated_at": "2026-06-10T20:51:10+00:00",
+  "updated_at": "2026-06-11T14:47:32+00:00",
   "skins": [
     {
       "name": "兔叽の永会485",
@@ -2456,6 +2456,12 @@
       "file": "兔叽の永会525.bdi",
       "thumb": "兔叽の永会525.bdi_py_26_light_thumb.png",
       "full": "兔叽の永会525.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "兔叽の永会540",
+      "file": "兔叽の永会540.bdi",
+      "thumb": "兔叽の永会540.bdi_py_26_light_thumb.png",
+      "full": "兔叽の永会540.bdi_py_26_light_thumb.png"
     }
   ]
 }
