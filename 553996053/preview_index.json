@@ -1,7 +1,7 @@
 {
   "qq_number": "875584882",
   "group_number": "553996053",
-  "updated_at": "2026-07-31T15:01:35+00:00",
+  "updated_at": "2026-08-01T14:32:07+00:00",
   "skins": [
     {
       "name": "兔叽年24",
@@ -1220,6 +1220,12 @@
       "file": "兔叽年112.bdi",
       "thumb": "兔叽年112.bdi_py_26_light_thumb.png",
       "full": "兔叽年112.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "兔叽年114",
+      "file": "兔叽年114.bdi",
+      "thumb": "兔叽年114.bdi_py_26_light_thumb.png",
+      "full": "兔叽年114.bdi_py_26_light_thumb.png"
     }
   ]
 }
