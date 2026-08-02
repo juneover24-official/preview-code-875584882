@@ -1,7 +1,7 @@
 {
   "qq_number": "875584882",
   "group_number": "921152007",
-  "updated_at": "2026-08-02T05:46:53+00:00",
+  "updated_at": "2026-08-02T05:47:35+00:00",
   "skins": [
     {
       "name": "绒兔小甜糕の期12",
@@ -170,6 +170,12 @@
       "file": "绒兔小甜糕の期28.bds",
       "thumb": "绒兔小甜糕の期28.bds_py_26_light_thumb.png",
       "full": "绒兔小甜糕の期28.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "绒兔小甜糕の期021",
+      "file": "绒兔小甜糕の期021.bds",
+      "thumb": "绒兔小甜糕の期021.bds_py_26_light_thumb.png",
+      "full": "绒兔小甜糕の期021.bds_py_26_light_thumb.png"
     }
   ]
 }
